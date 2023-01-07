@@ -1,2 +1,2 @@
 # CSE220---Data-Structures
-It contains all the asssignments i did my Data structure course where i got full marks. 
+It contains all the asssignments i successfully completed during my Data structure course.
