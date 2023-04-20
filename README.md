@@ -1,5 +1,10 @@
 # CSE220 - Data Structures
-
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/CSE220---Data-Structures?color=BDA9FF) 
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/CSE220---Data-Structures?color=BDA9FF) 
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/CSE220---Data-Structures?color=BDA9FF) 
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/CSE220---Data-Structures?color=BDA9FF)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/CSE220---Data-Structures?color=BDA9FF)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/CSE220---Data-Structures?style=social)
 This repository contains code related to the CSE220 - Data Structures course, which covers various data structures and their implementations in programming languages. 
 
 ## What are Data Structures?
